@@ -1,0 +1,84 @@
+/**
+* @name LiNe🆃🅷🅴🅼🅴🆂 © Glitchplain
+* @author LiNe 𝗗𝗲𝘃𝗹𝗼𝗽𝗺𝗲𝗻𝘁 ©
+* @authorLink https://honoris-discord.fr
+* @version 1
+* @invite 3ZbeQcK
+* @description Source RGB P.Wizard Image et code par LiNe 𝗗𝗲𝘃𝗹𝗼𝗽𝗺𝗲𝗻𝘁 ©
+* @source https://github.com/GoldenLys/BetterDiscord-Elysia
+* @website 
+https://honoris-discord.fr
+*/
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/aerobase.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/RGB/2.css");
+
+/* PLUGINS */
+
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/NoOffline.css");
+
+
+/* CONFIG */
+
+:root {
+--title: "LiNe🆃🅷🅴🅼🅴🆂 © Glitchplain";
+--background: url("https://cdn.discordapp.com/attachments/833051794552389662/833068683592859720/Linetheme.glitchplain.jpg");
+--font: "Comic Sans MS";
+--time: 10s;
+--Online: rgb(0 255 92);
+--Idle: rgb(244 255 0);
+--Unavailable: rgb(228 15 0);
+--Offline: rgb(90 95 100);
+--Playing: url("https://goldenlys.github.io/ThemeGen/img/playing.jpg");
+--Xbox: url("https://goldenlys.github.io/ThemeGen/img/xbox.jpg");
+--Spotify: url("https://goldenlys.github.io/ThemeGen/img/spotify.jpg");
+--Streaming: url("https://goldenlys.github.io/ThemeGen/img/twitch.jpg");
+--grey: rgb(91 114 255);
+--darkgrey: rgb(18 18 18);
+--ChatBox: var(--darkgrey5);
+--Sidebar: var(--darkgrey5);
+--SendMessage: var(--darkgrey);
+--logo: url("https://cdn.discordapp.com/attachments/833051794552389662/833068256180305970/Y9N3OCy.gif");
+--HoverMessage: var(--darkgrey5);
+--JoinUs: "Tu veux nous rejoindre :D? ";
+--AddNewServer: "➕ Ajoute ou créer un serveur (Le mieux c'est quand même de rejoindre Honoris)";
+--Close: "🔴";
+--Resize: "🔵";
+--Hide: "⚫";
+--ProfilePic: "Clique pour voir";
+--Unread: "✨";
+--Options: "⚙️";
+--Emoji: "😍";
+--EmojiHover: "😜";
+--Channel: "💬";
+--Voice: "🔊";
+--Community: "Honoris";
+--WelcomeMessage: "";
+--Watermark: "LiNe 𝗗𝗲𝘃𝗹𝗼𝗽𝗺𝗲𝗻𝘁 ©  LiNe🆃🅷🅴🅼🅴🆂 © Glitchplain  ";
+--EditStatus: "Choisir un autre statut!";
+--Folders: "📁";
+--C1: rgb(130 0 216);
+--C2: rgb(0 0 216);
+--C3: rgb(0 0 0);
+--C4: rgb(0 0 0);
+--C5: rgb(0 0 0);
+--C6: rgb(0 0 0);
+--C7: rgb(0 0 0);
+--C8: rgb(0 0 0);
+--FoldersOpen: "💠";
+--Micro: "🎙️";
+--Headset: "🎧";
+--TitleBG: var(--darkgrey5);
+--ServerSize: 45px;
+--WriteMessage: "Prépare un message...";
+--ListenAlong: "Ecoute";
+--StreamingColor: rgb(78 0 180);
+--ServerColumns: 1;
+--Highlighted: var(--grey5);
+--C9: rgb(0 0 0);
+--C10: rgb(0 0 0);
+--ActiveBox: rgb(235 235 235);
+--Announcement: "📣";
+--Stage: "📺";
+--grey5: rgb(91 114 255 / 50%);
+--darkgrey5: rgb(18 18 18 / 75%);
+} /* LiNe 𝗗𝗲𝘃𝗹𝗼𝗽𝗺𝗲𝗻𝘁 © pour LiNe🆃🅷🅴🅼🅴🆂 © */
